@@ -1,0 +1,68 @@
+# Normalisation des fins de ligne
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.sh text eol=lf
+
+# Fichiers de code/source
+*.java text
+*.kt text
+*.kts text
+*.groovy text
+*.gradle text
+*.gradle.kts text
+*.xml text
+*.xsd text
+*.xsl text
+*.properties text
+*.json text
+*.yaml text
+*.yml text
+*.toml text
+*.ini text
+*.cfg text
+*.conf text
+*.sql text
+*.md text
+*.txt text
+*.html text
+*.css text
+*.scss text
+*.js text
+*.mjs text
+*.cjs text
+*.ts text
+*.tsx text
+*.jsx text
+
+# Fichiers binaires
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
+*.jar binary
+*.war binary
+*.ear binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.tgz binary
+*.bz2 binary
+*.xz binary
+*.7z binary
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.class binary
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
